@@ -79,3 +79,18 @@ section {
     padding-top: 100px;
     padding-right: 130px;
 }
+
+.section-3-div {
+    display: flex;
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 2000px;
+}
+
+.skills-padding-2 {
+    padding-left: 300px;
+}
+
+.skills-h1 {
+    margin-left: 20px;
+}
