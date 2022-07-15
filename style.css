@@ -99,8 +99,18 @@ section {
     padding-bottom: 40px;
     padding-right: 10px;
     box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid tomato;
+    border-radius: 5px;
+}
+
+#blue {
+    border-left: 7px solid blue;
 }
 
 .skills-h1 {
     margin-left: 40px;
+}
+
+footer p {
+    text-align: center;
 }
