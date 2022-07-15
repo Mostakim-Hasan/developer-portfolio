@@ -75,22 +75,32 @@ section {
     border-radius: 5px;
 }
 
+.section-3-div {
+    display: flex;
+}
+
 .hm-div {
     padding-top: 100px;
     padding-right: 130px;
 }
 
-.section-3-div {
-    display: flex;
-    margin-top: 200px;
-    margin-left: 100px;
-    width: 2000px;
+.experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: unset;
 }
 
-.skills-padding-2 {
-    padding-left: 300px;
+.skills-padding {
+    width: 40%;
+    margin-top: 170px;
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 40px gray;
 }
 
 .skills-h1 {
-    margin-left: 20px;
+    margin-left: 40px;
 }
